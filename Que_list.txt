@@ -83,3 +83,41 @@ Are there specific age groups that contribute more to the total number of victim
 Is there a correlation between the age group distribution and the total number of victims?
 If you have location data (State/UT), can you analyze if there are variations in the distribution of cases reported and victims by age group across different regions?
 }
+Police_Disposal(count-head-wise 2018){
+1.For each section or Act, how many rape cases were reported during the year, pending from the previous year, and reopened for investigation?
+2.Were there any cases reopened for investigation in the category of rape, and if so, how many?
+3.What is the count of rape cases considered true but lacked sufficient evidence, were untraced, or had no clues?
+4.How many rape cases abated during the investigation?
+5.What is the total number of cases involving rape, considering cases not investigated, cases abated, cases with insufficient evidence, and cases untraced?
+6.What is the total number of cases involving rape that did not result in charge sheets or convictions?
+7.What is the distribution of rape cases by specific sections or Acts, such as POCSO Act Section 4 & 6, and POCSO Act Section 8 & 10?
+8.Are there any notable trends or differences in the handling of rape cases under different sections or Acts, in terms of investigation, charge sheets, or abatement?
+}
+Disposal(CrimeHead-Wise){
+#(use facet grid)
+1.How many persons were charged, discharged, convicted, acquitted and arrested in the {"POCSO Act Section 4 & 6","POCSO Act Section 8 & 10", "Murder with Rape/Gang Rape"} category, and what is the gender distribution among them/ split among individuals based on gender?
+}
+Punished_rapists{
+1. Which state or union territory had the highest number of reported rape cases under Section 376(B) (by separated husband)?
+2. In which state/UT was the "Rape/Gang Rape of Girl Below 16 Yrs (Imprisonment for life till death) (Sec. 376(DA))" most prevalent?
+3. Are there any states or union territories where cases under "By Person in Authority (Sec. 376(C))" are significant? If so, which one had the highest number of such cases?
+4. Which state or UT had punished the highest number of "Gang Rape (Sec. 376(D))" cases?
+5. In which region were there cases of "Rape/Gang Rape of Girl Below 12 Yrs were for life till death (Sec. 376(DB))," and which region reported the most cases?
+6. In which state/UT were the most cases of "Punishment for Repeat offenders (Sec. 376(E))" reported?
+8. What state or union territory had the highest total number of punishments for rape cases made (Under Sec. 376 IPC) reported in the dataset?
+9. Is there any notable trend or pattern in the distribution of these different categories of rape cases across states/UTs?
+10. Which state/UT had the highest total number of persons arrested in cases related to the specified crime categories?
+11. How does the gender distribution of persons charged and convicted in these cases vary across different states and union territories?
+12. Are there any states/UTs where a significant number of persons were discharged or acquitted in these cases, and what is the gender distribution among the acquitted?
+}
+Attempt_to_Commit_Rape{
+1. Which state or union territory reported the highest number of attempted rape cases (I) for all age groups and genders combined?
+2. Is there any state or UT where the number of attempted rape cases (V) is significantly different from the number of cases (I)? If so, which one had the largest difference?
+3. Are there any states or union territories where the number of attempted rape cases for girls below 18 years (I) is significantly higher than other age groups?
+4. Is there any state or UT with a notable difference in the number of attempted rape cases for women aged 18 years and above (I) and girls below 18 years (I)?
+5. In which state or UT were the lowest number of attempted rape cases reported for all age groups and genders combined?
+6. How does the gender and age group distribution of attempted rape cases (I) vary across different states and union territories?
+7. Are there any states/UTs where attempted rape cases (V) are more prevalent for girls below 18 years? If so, which regions have the highest number of such cases?
+8. Which states/UTs have the highest ratio of attempted rape cases for women aged 18 years and above (I) to girls below 18 years (I)?
+9. Are there any notable trends or patterns in the distribution of attempted rape cases across different states and age groups?
+}
