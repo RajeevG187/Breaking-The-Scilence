@@ -1,3 +1,14 @@
+(For every data set these questions are required to be solved first)
+Data Overview:
+What is the size of your dataset (number of records and columns)?
+Are there any missing values in the dataset?
+
+Descriptive Statistics:
+What are the summary statistics for each attribute, such as mean, median, and standard deviation?
+Can you identify any outliers in the data?
+
+Rapist_Victim_relation.csv
+{
 What is the distribution of total rape cases over the years or within a specific time frame?
 How has the number of rape cases involving family members changed over time?
 Are there any trends or patterns in the cases involving family friends, neighbors, employers, or other known persons?
@@ -12,3 +23,15 @@ How have legal and social changes influenced the reporting and classification of
 Are there any outliers or extreme values in the data that need further investigation?
 What is the relationship between the percentage share of known cases and the overall total rape cases?
 Can you identify any significant changes or trends in the percentage share of known cases over time?
+}
+Custodial_rape.csv
+{
+How are the different types of rape cases distributed across the dataset?
+Are there any significant imbalances in the categories (e.g., police personnel, public servant, armed forces)?
+Can you calculate the proportion of each category of rape cases relative to the total counts?
+Which category has the highest proportion of cases, and which has the lowest?
+What are the various types of punishments for rape cases, and how are they distributed?
+Are there any trends or patterns in the punishments based on the type of offender?
+Are there any correlations between the different types of rape cases and the punishments imposed?
+Do certain attributes show strong relationships with each other?
+}
