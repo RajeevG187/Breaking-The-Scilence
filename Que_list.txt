@@ -35,3 +35,51 @@ Are there any trends or patterns in the punishments based on the type of offende
 Are there any correlations between the different types of rape cases and the punishments imposed?
 Do certain attributes show strong relationships with each other?
 }
+CrimeAgainstWomen_Total_2016-18.csv
+{
+How have the rates of total crime against women changed from 2016 to 2018 in different states/UTs?
+Are there any consistent trends over these three years?
+Which state/UT had the highest rate of total crime against women in 2018?
+Are there regional patterns or clusters of higher or lower crime rates?
+Is there a correlation between the mid-year projected female population in 2018 and the rate of total crime against women in the same year?
+How do changes in population relate to changes in crime rates?
+What is the distribution of state share percentages in 2018?
+Are there any states with particularly high or low state share percentages?
+Can you calculate the crime rate per 100,000 females in 2018 for each state/UT?
+Which states had the highest and lowest crime rates per 100,000 females in 2018?
+How does the state share percentage of a state in 2018 compare to its rate of total crime against women in the same year?
+Does a higher state share percentage correlate with lower or higher crime rates?
+}
+Non_custodial_rape.csv
+{
+Can you identify any patterns or trends in the type of rape cases (e.g., rape of pregnant women, rape of women below 16 years of age) across different regions?
+How do the types of rape cases vary by age groups of the victims?
+Are there any correlations between the attributes, such as the number of repeated rape cases and the punishment imposed by law?
+What is the distribution of rape cases by the relationship between the perpetrator and the victim (e.g., relative, guardian, teacher)?
+Is there any connection between rape cases involving women with mental or physical disabilities and the location (State/UT) where they occur?
+}
+RapeCommited_I_V.csv
+{
+What is the difference between "Rape (Total)(I)" and "Rape (Total)(V)"? How do these two categories relate to each other?
+Is there a pattern or trend in the incidence of rape cases compared to the number of victims?
+Can you calculate the incidence and victim count for women aged 18 years and above and girls below 18 years?
+Are there significant differences in these numbers between the two age groups?
+Is there a notable difference in the incidence and victim count between women aged 18 years and above and girls below 18 years?
+How do these numbers compare between these two age groups?
+Can you calculate the percentage of victims relative to the incidence for each category (women aged 18 years and above, girls below 18 years)?
+Does this percentage vary significantly?
+How do the incidence and victim counts vary across different states/union territories?
+Are there states with notably higher or lower numbers in both categories?
+}
+Rape_under_Different_age_groups_2018
+{
+What is the total number of girl/child victims below 18 years in the dataset?
+How does this compare to the total number of women/adult victims above 18 years?
+Can you calculate the distribution of women/adult victims in different age groups (e.g., 18 years & above below 30 years, 30 years & above below 45 years, etc.)?
+Are there specific age groups more affected by these cases?
+How does the number of cases reported vary across different age groups of victims?
+Are there any age groups that have a higher incidence of reported cases?
+Are there specific age groups that contribute more to the total number of victims (both girl/child and women/adult)?
+Is there a correlation between the age group distribution and the total number of victims?
+If you have location data (State/UT), can you analyze if there are variations in the distribution of cases reported and victims by age group across different regions?
+}
