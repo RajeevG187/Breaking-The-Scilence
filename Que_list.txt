@@ -9,31 +9,37 @@ Can you identify any outliers in the data?
 
 Rapist_Victim_relation.csv
 {
-What is the distribution of total rape cases over the years or within a specific time frame?
-How has the number of rape cases involving family members changed over time?
-Are there any trends or patterns in the cases involving family friends, neighbors, employers, or other known persons?
-How do the cases involving friends, online friends, or live-in partners on the pretext of marriage compare to other categories?
-What is the distribution of cases involving separated husbands, and has it changed over time?
-What is the percentage share of known offenders compared to cases where the offender is unknown or not identified?
-Are there any geographical or regional variations in the types of rape cases?
-How does the distribution of these cases differ in urban and rural areas?
-Is there a correlation between economic factors and the prevalence of different types of rape cases?
-Can you identify any seasonal patterns or trends in rape cases?
-How have legal and social changes influenced the reporting and classification of rape cases?
-Are there any outliers or extreme values in the data that need further investigation?
-What is the relationship between the percentage share of known cases and the overall total rape cases?
-Can you identify any significant changes or trends in the percentage share of known cases over time?
+
+
+3.Are there any trends or patterns in the cases involving family friends, neighbors, employers, or other known persons?
+4.How do the cases involving friends, online friends, or live-in partners on the pretext of marriage compare to other categories?
+6.What is the percentage share of known offenders compared to cases where the offender is unknown or not identified?Are there any geographical or regional variations in the types of rape cases?
+*9.Is there a correlation between economic factors and the prevalence of different types of rape cases?*
+
+
+
+
+
 }
 Custodial_rape.csv
 {
-How are the different types of rape cases distributed across the dataset?
-Are there any significant imbalances in the categories (e.g., police personnel, public servant, armed forces)?
-Can you calculate the proportion of each category of rape cases relative to the total counts?
-Which category has the highest proportion of cases, and which has the lowest?
-What are the various types of punishments for rape cases, and how are they distributed?
-Are there any trends or patterns in the punishments based on the type of offender?
-Are there any correlations between the different types of rape cases and the punishments imposed?
-Do certain attributes show strong relationships with each other?
+0. Compare total no. of custodial vs non-custodial cases.
+1.How are the different types of rape cases distributed across the dataset?
+2.Are there any significant imbalances in the categories (e.g., police personnel, public servant, armed forces)?
+3.Can you calculate the proportion of each category of rape cases relative to the total counts?
+4.Which category has the highest proportion of cases, and which has the lowest?
+5.What are the various types of punishments for rape cases, and how are they distributed?
+6.Are there any trends or patterns in the punishments based on the type of offender?
+7.Are there any correlations between the different types of rape cases and the punishments imposed?
+8.Do certain attributes show strong relationships with each other?
+}
+Non_custodial_rape.csv
+{
+9.Can you identify any patterns or trends in the type of rape cases (e.g., rape of pregnant women, rape of women below 16 years of age) across different regions?
+10.How do the types of rape cases vary by age groups of the victims?
+11.Are there any correlations between the attributes, such as the number of repeated rape cases and the punishment imposed by law?
+12.What is the distribution of rape cases by the relationship between the perpetrator and the victim (e.g., relative, guardian, teacher)?
+13.Is there any connection between rape cases involving women with mental or physical disabilities and the location (State/UT) where they occur?
 }
 CrimeAgainstWomen_Total_2016-18.csv
 {
@@ -50,14 +56,7 @@ Which states had the highest and lowest crime rates per 100,000 females in 2018?
 How does the state share percentage of a state in 2018 compare to its rate of total crime against women in the same year?
 Does a higher state share percentage correlate with lower or higher crime rates?
 }
-Non_custodial_rape.csv
-{
-Can you identify any patterns or trends in the type of rape cases (e.g., rape of pregnant women, rape of women below 16 years of age) across different regions?
-How do the types of rape cases vary by age groups of the victims?
-Are there any correlations between the attributes, such as the number of repeated rape cases and the punishment imposed by law?
-What is the distribution of rape cases by the relationship between the perpetrator and the victim (e.g., relative, guardian, teacher)?
-Is there any connection between rape cases involving women with mental or physical disabilities and the location (State/UT) where they occur?
-}
+
 RapeCommited_I_V.csv
 {
 What is the difference between "Rape (Total)(I)" and "Rape (Total)(V)"? How do these two categories relate to each other?
