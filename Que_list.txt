@@ -21,68 +21,46 @@ Rapist_Victim_relation.csv
 
 
 }
-Custodial_rape.csv
+Custodial_rape.csv & Non_custodial_rape.csv
 {
 0. Compare total no. of custodial vs non-custodial cases.
-1.How are the different types of rape cases distributed across the dataset?
-2.Are there any significant imbalances in the categories (e.g., police personnel, public servant, armed forces)?
-3.Can you calculate the proportion of each category of rape cases relative to the total counts?
-4.Which category has the highest proportion of cases, and which has the lowest?
-5.What are the various types of punishments for rape cases, and how are they distributed?
-6.Are there any trends or patterns in the punishments based on the type of offender?
-7.Are there any correlations between the different types of rape cases and the punishments imposed?
-8.Do certain attributes show strong relationships with each other?
-}
-Non_custodial_rape.csv
-{
+
+2.Are there any significant imbalances in the categories (e.g., police personnel, public servant, armed forces)?//pie chart
+
 9.Can you identify any patterns or trends in the type of rape cases (e.g., rape of pregnant women, rape of women below 16 years of age) across different regions?
 10.How do the types of rape cases vary by age groups of the victims?
-11.Are there any correlations between the attributes, such as the number of repeated rape cases and the punishment imposed by law?
-12.What is the distribution of rape cases by the relationship between the perpetrator and the victim (e.g., relative, guardian, teacher)?
+
 13.Is there any connection between rape cases involving women with mental or physical disabilities and the location (State/UT) where they occur?
 }
 CrimeAgainstWomen_Total_2016-18.csv
 {
-How have the rates of total crime against women changed from 2016 to 2018 in different states/UTs?
-Are there any consistent trends over these three years?
-Which state/UT had the highest rate of total crime against women in 2018?
-Are there regional patterns or clusters of higher or lower crime rates?
-Is there a correlation between the mid-year projected female population in 2018 and the rate of total crime against women in the same year?
-How do changes in population relate to changes in crime rates?
-What is the distribution of state share percentages in 2018?
-Are there any states with particularly high or low state share percentages?
-Can you calculate the crime rate per 100,000 females in 2018 for each state/UT?
-Which states had the highest and lowest crime rates per 100,000 females in 2018?
-How does the state share percentage of a state in 2018 compare to its rate of total crime against women in the same year?
-Does a higher state share percentage correlate with lower or higher crime rates?
+
+2.Are there any consistent trends over these three years?
+
+4.Are there regional patterns or clusters of higher or lower crime rates?(NSEW)
+
+6.How do changes in population relate to changes in crime rates?(population data for each state for 2016-17-18)
+
+9.Does a higher state share percentage correlate with lower or higher crime rates?
 }
 
 RapeCommited_I_V.csv
 {
-What is the difference between "Rape (Total)(I)" and "Rape (Total)(V)"? How do these two categories relate to each other?
-Is there a pattern or trend in the incidence of rape cases compared to the number of victims?
-Can you calculate the incidence and victim count for women aged 18 years and above and girls below 18 years?
-Are there significant differences in these numbers between the two age groups?
-Is there a notable difference in the incidence and victim count between women aged 18 years and above and girls below 18 years?
-How do these numbers compare between these two age groups?
-Can you calculate the percentage of victims relative to the incidence for each category (women aged 18 years and above, girls below 18 years)?
-Does this percentage vary significantly?
-How do the incidence and victim counts vary across different states/union territories?
-Are there states with notably higher or lower numbers in both categories?
+1.What is the difference between "Rape (Total)(I)" and "Rape (Total)(V)"? How do these two categories relate to each other?
+
+4.Can you calculate the incidence and victim count for women aged 18 years and above and girls below 18 years?Is there a notable difference in the incidence and victim count between women aged 18 years and above and girls below 18 years?
+
 }
 Rape_under_Different_age_groups_2018
 {
-What is the total number of girl/child victims below 18 years in the dataset?
-How does this compare to the total number of women/adult victims above 18 years?
-Can you calculate the distribution of women/adult victims in different age groups (e.g., 18 years & above below 30 years, 30 years & above below 45 years, etc.)?
-Are there specific age groups more affected by these cases?
-How does the number of cases reported vary across different age groups of victims?
-Are there any age groups that have a higher incidence of reported cases?
-Are there specific age groups that contribute more to the total number of victims (both girl/child and women/adult)?
-Is there a correlation between the age group distribution and the total number of victims?
-If you have location data (State/UT), can you analyze if there are variations in the distribution of cases reported and victims by age group across different regions?
+
+1.Can you calculate the distribution of women/adult victims in different age groups (e.g., 18 years & above below 30 years, 30 years & above below 45 years, etc.)?
+2.Are there specific age groups more affected by these cases?
+
+7.If you have location data (State/UT), can you analyze if there are variations in the distribution of cases reported and victims by age group across different regions?(NSEW)
 }
-Police_Disposal(count-head-wise 2018){
+Police_Disposal(count-head-wise 2018)
+{
 1.For each section or Act, how many rape cases were reported during the year, pending from the previous year, and reopened for investigation?
 2.Were there any cases reopened for investigation in the category of rape, and if so, how many?
 3.What is the count of rape cases considered true but lacked sufficient evidence, were untraced, or had no clues?
@@ -92,11 +70,13 @@ Police_Disposal(count-head-wise 2018){
 7.What is the distribution of rape cases by specific sections or Acts, such as POCSO Act Section 4 & 6, and POCSO Act Section 8 & 10?
 8.Are there any notable trends or differences in the handling of rape cases under different sections or Acts, in terms of investigation, charge sheets, or abatement?
 }
-Disposal(CrimeHead-Wise){
+Disposal(CrimeHead-Wise)
+{
 #(use facet grid)
 1.How many persons were charged, discharged, convicted, acquitted and arrested in the {"POCSO Act Section 4 & 6","POCSO Act Section 8 & 10", "Murder with Rape/Gang Rape"} category, and what is the gender distribution among them/ split among individuals based on gender?
 }
-Punished_rapists{
+Punished_rapists
+{
 1. Which state or union territory had the highest number of reported rape cases under Section 376(B) (by separated husband)?
 2. In which state/UT was the "Rape/Gang Rape of Girl Below 16 Yrs (Imprisonment for life till death) (Sec. 376(DA))" most prevalent?
 3. Are there any states or union territories where cases under "By Person in Authority (Sec. 376(C))" are significant? If so, which one had the highest number of such cases?
@@ -109,7 +89,8 @@ Punished_rapists{
 11. How does the gender distribution of persons charged and convicted in these cases vary across different states and union territories?
 12. Are there any states/UTs where a significant number of persons were discharged or acquitted in these cases, and what is the gender distribution among the acquitted?
 }
-Attempt_to_Commit_Rape{
+Attempt_to_Commit_Rape
+{
 1. Which state or union territory reported the highest number of attempted rape cases (I) for all age groups and genders combined?
 2. Is there any state or UT where the number of attempted rape cases (V) is significantly different from the number of cases (I)? If so, which one had the largest difference?
 3. Are there any states or union territories where the number of attempted rape cases for girls below 18 years (I) is significantly higher than other age groups?
