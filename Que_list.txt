@@ -12,7 +12,7 @@ Rapist_Victim_relation.csv
 
 
 3.Are there any trends or patterns in the cases involving family friends, neighbors, employers, or other known persons?
-4.How do the cases involving friends, online friends, or live-in partners on the pretext of marriage compare to other categories?
+
 6.What is the percentage share of known offenders compared to cases where the offender is unknown or not identified?Are there any geographical or regional variations in the types of rape cases?
 *9.Is there a correlation between economic factors and the prevalence of different types of rape cases?*
 
@@ -28,7 +28,7 @@ Custodial_rape.csv & Non_custodial_rape.csv
 2.Are there any significant imbalances in the categories (e.g., police personnel, public servant, armed forces)?//pie chart
 
 9.Can you identify any patterns or trends in the type of rape cases (e.g., rape of pregnant women, rape of women below 16 years of age) across different regions?
-10.How do the types of rape cases vary by age groups of the victims?
+
 
 13.Is there any connection between rape cases involving women with mental or physical disabilities and the location (State/UT) where they occur?
 }
