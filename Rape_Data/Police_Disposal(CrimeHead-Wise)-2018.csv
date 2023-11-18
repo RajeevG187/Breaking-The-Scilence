@@ -1,6 +1,15 @@
+<<<<<<< HEAD
 Crime Head,Cases Pending Investigation from Previous Year,Cases Reported during the year,Cases Reopened for Investigation,Total Cases for Investigation ,Cases Not Investigated Under 157_1_b CRPC,Cases True but Insufficient Evidence or Untraced or No Clue,Cases Abated during Investigation,Total ,Cases Charge_sheeted Out of Cases from Previous Year,Cases Charge_sheeted Out of Cases during the Year,Cases Charge_sheeted
 2,3,4,5,6,7,13,14,15,16,17,18
 POCSO Act Section 4 & 6,7761,21401,2,29164,1,360,42,817,4538,15006,19544
 POCSO Act Section 8 & 10,5507,14124,10,19641,0,294,5,774,2845,9652,12497
 Rape,13762,33356,21,47139,1,1093,75,4841,7054,21415,28469
 Murder with Rape/Gang Rape,99,294,0,393,0,24,2,33,31,193,224
+=======
+Crime Head,Cases Pending Investigation from Previous Year,Cases Reported during the year,Cases Reopened for Investigation,Total Cases for Investigation ,Cases Not Investigated Under 157_1_b CRPC,Cases True but Insufficient Evidence or Untraced or No Clue,Cases Abated during Investigation,Total ,Cases Charge_sheeted Out of Cases from Previous Year,Cases Charge_sheeted Out of Cases during the Year,Cases Charge_sheeted
+2,3,4,5,6,7,13,14,15,16,17,18
+POCSO Act Section 4 & 6,7761,21401,2,29164,1,360,42,817,4538,15006,19544
+POCSO Act Section 8 & 10,5507,14124,10,19641,0,294,5,774,2845,9652,12497
+Rape,13762,33356,21,47139,1,1093,75,4841,7054,21415,28469
+Murder with Rape/Gang Rape,99,294,0,393,0,24,2,33,31,193,224
+>>>>>>> 23bc787e076352700e7ead2ecb8bea4bec5ffd4e
